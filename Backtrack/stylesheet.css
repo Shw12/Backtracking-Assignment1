@@ -1,0 +1,58 @@
+h1{
+    margin: 0;
+}
+.cp{
+    margin: 0;
+}
+p{
+    margin: 15px;
+    margin-left: 0;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.algo{
+    margin-top: 30px;
+}
+.code
+{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.color
+{   color: #835C3B;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.blu
+{
+    color: #0000FF;
+}
+.space
+{
+    margin-top: 0;
+    margin-left: 40px;
+}
+.padding{
+    text-align: left;
+    border: 1px solid black;
+    padding: 4px;
+}
+.cell{
+    text-align: left;
+    border: 1px solid black;
+    padding: 4px;
+    background-color: #cccccc;
+}
+.code-2
+{
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.num{
+    
+        color: blue;
+        font-style: italic;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}
